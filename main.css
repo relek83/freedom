@@ -14,7 +14,7 @@ body {
 
 p {
 	text-align: center;
-	margin-top: 70px;
+	margin-top: 60px;
 	font-family: fantasy;
 }
 
@@ -24,4 +24,10 @@ p {
 	line-height: 150%;
 	letter-spacing: 0.5vw;
 	text-shadow: 1px 1px grey;
+}
+
+.author {
+	text-transform: lowercase;
+	font-size: 2vw;
+	margin: 0 auto 0 auto;
 }
